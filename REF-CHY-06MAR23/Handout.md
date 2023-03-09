@@ -20,7 +20,7 @@ code {
 
 → Geboren am **15. Dezember 1852**, in Paris (<img style="vertical-align: bottom; height: 1.5em" src="https://raw.githubusercontent.com/AKB1152/emojis/main/1f1eb-1f1f7.svg">)  
 → Gestorben am **25. August 1908**, in Le Croisic (<img style="vertical-align: bottom; height: 1.5em" src="https://raw.githubusercontent.com/AKB1152/emojis/main/1f1eb-1f1f7.svg">)  
-→ Französischer Ingeneur und Physiker  
+→ Französischer Ingenieur und Physiker  
 → **Nobelpreisträger** (<span style="font-variant: small-caps">physik</span>)  
 &nbsp; &nbsp;  &rArr; für die Entdeckung der Radioaktivität  
 → Die [SI-Einheit der Radioaktivität](#die-einheit-becquerel) ist nach ihm benannt  
@@ -41,15 +41,17 @@ konzentrierte. Darüber hinaus setzte sich Becquerel auch mit dem Magnetfeld der
 
 <img height=250 alt="Röntgen (ca. 1900)" align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg"/>
 
-Am Sonntag, den 5. Januar 1896 hat Wilhelm Conrad Röntgen die nach ihm benannten Strahlen entdeckt. Röntgen fand während dem Experiment heraus, dass die *Crooksröhre*, die er Nuzte, Strahlung ausgab, die durch schwarzes Papier strahlen konnte.
+Am Sonntag, dem 5. Januar 1896 hat Wilhelm Conrad Röntgen die nach ihm benannten Strahlen entdeckt. 
+Röntgen fand während dem Experiment heraus, dass die *Crooksröhre*, die er nutzte, Strahlung ausgab,
+die durch schwarzes Papier strahlen konnte.
 
 Becquerel war bereits an Phosphoreszenz, also der Abstrahlung von Licht von einem Körper nach aussetzung von Licht in einer anderen Farbe, interessiert.
 
-Henri hatte danach begonnen zu Untersuchen, ob es zwischen den neu gefundenen Röntgenstrahlen und der Phosphoreszenz, die er mit Uransalzen beobachtet hatte, zusammenhänge gäbe.
+Henri hatte danach begonnen zu Untersuchen, ob es zwischen den neu gefundenen Röntgenstrahlen und der Phosphoreszenz, die er mit Uransalzen beobachtet hatte, zusammenhänge, gäbe.
 
 Er vermutete, dass die Uransalze unter Sonneneinstrahlung Röntgenstrahlung abgeben könnten.
 
-<div class="page">
+<div class="page"></div>
 
 ### Marie Skłodowska-Curie
 
@@ -61,8 +63,8 @@ Er vermutete, dass die Uransalze unter Sonneneinstrahlung Röntgenstrahlung abge
 → Gestorben am: **4. Juli 1934**, in Passy (<img style="vertical-align: bottom; height: 1.5em" src="https://raw.githubusercontent.com/AKB1152/emojis/main/1f1eb-1f1f7.svg">)  
 → Polnisch-Französische Physikerin und Chemikerin, die 2 Elemente gefunden hat.  
 
-Da es zur Zeit Frauen nicht gestattet war in Polen zu Studieren hat sie an der ['Flying University' <sup>Q1</sup>](#quellen) studiert bzw. teilgenommen.
-Sie hat ihr Studiuum 1891 in Paris fortgesetzt, nachdem sie ihrer Schwester dorthin gefolgt war.
+Da es zur Zeit Frauen nicht gestattet war in Polen zu studieren, hat sie an der ['Flying University' <sup>Q1</sup>](#quellen) studiert bzw. teilgenommen.
+Sie hat ihr Studium 1891 in Paris fortgesetzt, nachdem sie ihrer Schwester dorthin gefolgt war.
 
 1895 hat Marie den Französischen Physiker [**Pierre Curie**](https://en.Wikipedia.org/wiki/Pierre_Curie) geheiratet, mit dem sie zwei Töchter **Irène Joliot-Curie** (<span style="font-variant: small-caps">ipa: </span><b class="ipa">/iʁɛ:n ʒɔljo: kyʁi/</b>) und **Ève Denise Curie Labouisse** (<span style="font-variant: small-caps">ipa: </span><b class="ipa">/ɛ:v dəni:z kyʁi labwis/</b>) hatte.  
 
@@ -73,7 +75,7 @@ Sie hat den Chemie-Nobelpreis in 1911 für die Entdeckung der Elemente [Polonium
 **1903**: Erste Frau, die einen Nobelpreis gewonnen hat  
 **1903**: (Mit Pierre) Erstes Ehepaar, das zusammen einen Nobelpreis gewonnen hat  
 **1906**: Pierre Stirbt bei einem Unfall, in dem er Überfahren wurde  
-**1906**: Erste Proffesorin der Sorbonne (nachdem sie Pierres Lehrstuhl aufgenommen hat)  
+**1906**: Erste Professorin der Sorbonne (nachdem sie Pierres Lehrstuhl aufgenommen hat)  
 **1911**: Erste und einzige, die in zwei disziplinen einen Nobelpreis gewonnen hat  
 **1934**: Tod durch [Aplastische Anämie](https://de.wikipedia.org/wiki/Aplastische_An%C3%A4mie) im Alter von 66 Jahren
 
@@ -90,13 +92,13 @@ Im Juli 1898 veröffentlichten die Curies ein Paper mit dem Titel:
 Im paper berichteten sie über die Existenz des 84. Elements, das sie in der Hoffnung
 Aufmerksamkeit darauf zu lenken, dass Polen kein eigenes Land ist, nach Maries Heimatland Polen, Polonium nannten.
 
-Die Entdeckung Poloniums war relativ einfach, da es als einizges Element in Pechblende dem Aufbau von Bismuth ähnelt. Curies Hoffnung, Polonium in Reinform zu isolieren gelang ihr allerdings nie.
+Die Entdeckung Poloniums war relativ einfach, da es als einziges Element in Pechblende dem Aufbau von Bismuth ähnelt. Curies Hoffnung, Polonium in Reinform zu isolieren gelang ihr allerdings nie.
 
 #### Radium
 
 Am 26. Dezember 1898 kündigten die Curies die Existenz eines zweiten neuen Elements an, welches sie nach dem Lateinischen für 'Strahl', Radium nannten.
 
-Die Entdeckung Radiums war relativ schwer, da Radium dem aufbau von Barium ähnelt, das selbst in Pechblende enthalten ist.
+Die Entdeckung von Radium war relativ schwer, da Radium dem aufbau von Barium ähnelt, das selbst in Pechblende enthalten ist.
 
 **1898**: kleine Reste von Radium  
 **1902**: 0.1 gramm Radiumchlorid aus 1000 kg Pechblende  
@@ -111,11 +113,11 @@ Das zeigt, das es drei Arten von radioaktiver Strahlung gibt: positive (&alpha; 
 
 ### Radioaktivität in der Medizin
 
-Die Curies veröffentlichten zwischen 1898 und 1902, sowohl zusammen als auch alleine, insgesammt 32 Paper, <!--Ø8 Papers/Year!--> davon zeigte eins, das tumor-generierende Zellen, wenn sie Radium ausgesetzt wurden, scheller sterben als gesunde Zellen.
+Die Curies veröffentlichten zwischen 1898 und 1902, sowohl zusammen als auch alleine, insgesamt 32 Paper, <!--Ø8 Papers/Year!--> davon zeigte eins, das tumor-generierende Zellen, wenn sie Radium ausgesetzt wurden, schneller sterben als gesunde Zellen.
 
 1920 hat Marie in Paris und 1932 in Warschau das Curie Institut gegründet, diese sind noch immer wichtige medizinische Untersuchungszentren. Auch wurden unter ihren Anweisungen erste Studien veranlasst, die die Behandlung von Neoplasmen mit radioaktiven Isotopen untersuchen.
 
-Im ersten Weltkrieg hat sie mobile Radiographieeinheiten entwickelt, um im Krieg Röntgenaufnahmen zu ermöglichen und dem roten Kreuz bei Medizinischer Unterstüzung zu helfen.
+Im Ersten Weltkrieg hat sie mobile Radiografie einheiten entwickelt, um im Krieg Röntgenaufnahmen zu ermöglichen und dem roten Kreuz bei medizinischer Unterstützung zu helfen.
 
 ### Die Einheit: *Becquerel*
 
@@ -140,15 +142,15 @@ Das **Curie*** war bis 1946 die Einheit des Kernzerfalls und basierte auf die Ak
 ### Auszeichnungen
 
 **1889**: Mitglied in der *Académie des Sciences*  
-**1900**: Rumford Medallie (für die Entdeckung der radioaktivität Urans)  
-**1900**: *Officier de la Légion d'Honneur* der Republic Frankreich (höchste Annerkenung des Lands)  
-**1901**: Helmholtz Medallie  
+**1900**: Rumford Medaille (für die Entdeckung der radioaktivität Urans)  
+**1900**: *Officier de la Légion d'Honneur* der Republic Frankreich (höchste Anerkennung des Lands)  
+**1901**: Helmholtz Medaille  
 **1902**: Wahl zum Mitglied der *American Philosophical Society*  
 **1903**: Physik-Nobelpreis (mit Pierre und Marie Curie)  
-**1905**: Barnard Madallie  
+**1905**: Barnard Medaille  
 **1906**: Wahl zum Vizevorsitzenden der *Académie des Sciences*  
 **1908**: Wahl zum *Foreign Member of the Royal Society*  
-**1908**: Wahl zum permanenten Sekräter der *Académie des Sciences*  
+**1908**: Wahl zum permanenten Sekretär der *Académie des Sciences*  
 == ↓↓ **Nach Becquerels Tod** ↓↓ ==  
 **1970**: Benennung des Mondkraters nach ihm  
 **1973**: Benennung des Marskraters nach Becquerel  
@@ -156,8 +158,6 @@ Das **Curie*** war bis 1946 die Einheit des Kernzerfalls und basierte auf die Ak
 **1996**: Asteroid (6914) Becquerel wurde nach ihm benannt.
 
 → Er war Mitglied der *Accademia dei Licei* und der *Preussischen Akademie der Wissenschaften*
-
-<!--'Officier de la Légion d'Honneur' of the Republic of France – the country's highest decoration-->
 
 ## Quellen
 
