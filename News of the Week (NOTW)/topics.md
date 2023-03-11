@@ -16,11 +16,6 @@
 
 ``09MAR2023``
 
-<a href="https://twitter.com/TschenPe/status/1633958749843996673?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1633958749843996673%7Ctwgr%5E59bdeabf55d67bff80320c1722d53817f64ec6f4%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FTschenPe2Fstatus2F1633958749843996673widget%3DTweet">
-  <img alt="desc" src="_News of the week/TschenPe_Tweet_JW_Shooting.png" title="title"/>
-</a>
-
-
 → Shooting in Hamburg's &raquo;Nord Alsterdorf/Groß Borstel&laquo; district in a JW-Kingdom Hall   
 → 6 dead, 4 men, 2 women, 1 unborn child  
 → 8 injured, 4 seriously, 6 women, 2 men, 1 ugandan national, 1 ukranian national  
@@ -47,11 +42,29 @@
 
 ``11MAR2023``
 
-### Xi Jinping 'elected' President of china for third term in a row 
+- Buckingham Palace announced: Prince Edward (King Charles III.'s younger brother) was named Duke of Edinburgh by King Charles III. on Prince Edwards 59<sup>th</sup> Birthday.
+- Duke Edward and Duchess Sophie visited Edinburgh on Friday (10MAR23) 
+- the title is strongly associated with their father Prince Philipp, who got the title in 1947 after marrying — then Princess — Queen Elizabeth II. and wanted his younger son, Prince Edward, to inherit it; although the decision was left to King Charles.
+- Edward, 13<sup>th</sup> in line to the Throne, will attend the coronation in May as the Duke of Edinburgh
+- His former title was passed down to his son, the 15-year-old Viscount Severn, although his daughter, Lady Louise Windsor, will not have any change in her titles.
+
+### Xi Jinping 'elected' President of China for third term in a row 
 
 <a href="https://www.rnz.co.nz/news/world/485728/china-s-xi-jinping-clinches-third-presidential-term-amid-host-of-challenges"><img alt="RNZ-LOGO" height=32 src="https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png"></img></a>
 
 ``10MAR2023``
+
+- &#x4e60;&#x8fd1;&#x5e73; (Xí Jìnpíng, <b style="color: #006663"><span style="font-variant: small-caps">ipa: </span>/ʃǐ d͡ʒînpǐŋ/</b>) secured a third 5-year presidential term on Friday, after nearly 3000 members of Chinas Parliament voted unanimously for the 69-year-old, in an &raquo;*election* &laquo; in which the only candidate was Xi (&#x4e60;). 
+- He assumed Control over a decade ago, facing 
+  - increasingly adversarial relations with the west and Washington DC over **Taiwan**
+  - the backlash of Beijing backing Russia
+  - a weak demand of chinese exports globally
+  - trade and human rights problems internationally
+  - and 3 years of Xi's 0-CoVID-policy domestically
+- Xi removed presidential term limits in 2018, placed there in the aftermath of Mao Zedong's reign.
+  - that makes him the most powerful leader of China since Mao Zedong, who founded the PRC. 
+- the position of 'President' in China is largely ceremonial, his main position of power, the **general secretary of the central committee of the communist party of China**, was extended in October last year for 5 more years.
+
 
 ### Georgia drops "foreign agents bill" after 2 days of Protest
 
