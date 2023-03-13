@@ -115,6 +115,50 @@ Although according to the interior Ministry *All protestors detained &lbrack;on&
 
 ``10MAR2023 · MAIN · 灰``
 
+The White House called FOX-News presenter Tucker Carlson &laquo;not credible&raquo; after he made a number of claims based
+on previously unseen footage of the riots on January 6<sup>th</sup> provided to Carlson by Republican Senator Kevin McCarthy.
+
+Although the White House rarely calls out journalists by name, it weighed in with a statement about the prime-time TV-Host's broadcast
+related to the footage, echoing similar statements from leading Democrat and Republican lawmakers.
+
+Carlson argued that the about 45 minutes of footage cherry-pcked from the approximately 40000 hours of footage 
+shows &laquo;mostly peaceful chaos&raquo; instead of an insurrection or a riot.
+
+White House spokesperson Andrew Bates said it agreed with critics including the chief of capitol police and the wide range of 
+bipartisan lawmakers that condemned this false depiction of the unprecedented, violent attack and agreed with what Fox-News's
+own attorneys and executives repeatedly stressed in multiple courts of law: that **Tucker Carlson is not credible**.
+
+Carlson:
+- claimed that media outlets exaggerated the violence at the capitol on January 6th
+- claimed that the videos show that while a minority of protestors did commit violence, most were sightseers
+- and suggested without evidence that government agents could've instigated the riots
+
+Senate Republican Leader Mitch McConnell said that &raquo;it has been an Error for FOX-News to depict this in a way that is 
+completely at variance with what our chief law enforcement officer &lbrack;…&rbrack; thinks &lbrack;about the riot&rbrack;&laquo;
+
+In an internal Memorandum the Capitol Police Chief Tom Manger said that the broadcast was "filled with offensive and misleading
+conclusions &lbrack;about&rbrack; the January 6 Attack", he added that "the program conveniently cherry-picked from the calmer
+moments of &rbrack;the&lbrack; 41 thousand hours of video", he further added that &raquo;the commentary fails to provide
+context about the chaos and violence that happened before or during these less tense moments&laquo;
+
+Carlson also showed footage of the so-called "QAnon-Shaman", a man named Jacob Chansley, who while wearing a headdress made of fur 
+and horns that day became one of the most recognizable people of the January 6<sup>th</sup> riot. He (→ Chansley) plead guilty in 
+September 2021 to ***obstructing an official proceeding*** and is currently serving a 41 Month (= 3 years, 5 months) prison sentence.
+
+Carlson said the videos, which have not been viewed by any other media organisation in full, 
+show the police acting as "**tour guides**". An allegation which Manger called &raquo;**outrageous and false**&laquo;
+
+  **140**: Police offices were injured that day  
+**~1000**: arrested so far in connection to the riot (mostly for **entering or remaining in a restricted federal building**)  
+ **300+**: were charged with assaulting, resisting or impeading officers or employees  
+ **100+**: were charged with using a deadly or dangerous weapon or causing serious bodily harm to police officers
+
+Carlson also focused on Capitol police officer **Brian Sicknick**, who died on January 7<sup>th</sup> after collapsing on January 6<sup>th</sup>.
+Carlson claimed that &raquo; whatever happened to &lbrack;…&rbrack; was very obviously not to do with the violence he suffered outside &lbrack;…&rbrack;&laquo;
+In April of 2021 a medical examiner found that Sicknick met his untimely demise at the hands of a medical condition **not** brought on by an injury.
+
+Sicknick's family issued a statement saying they were "outraged" at the coverage and lambasted (= scolded) the network as propaganda.
+
 Those hosts continue to deceive and manipulate viewers nightly. The same day Carlson aired his Jan. 6 fabrication, Trump said on Sean Hannity’s radio show that he would have been willing to let Vladimir Putin “take over” parts of Ukraine. But when Hannity played excerpts of the interview on Fox News, the network edited out Trump’s proposed surrender.
 
 
