@@ -14,7 +14,7 @@
 <a href="https://edition.cnn.com/2023/03/10/europe/hamburg-germany-shooting-intl/index.html"><img alt="CNN-LOGO" height=32 src="https://edition.cnn.com/media/sites/cnn/favicon.ico"></img></a>
 <a href="https://www.sueddeutsche.de/panorama/amoklauf-hamburg-waffenrecht-innenministerium-1.5766975"><img alt=" SZ-LOGO" height=32 src="https://www.sueddeutsche.de/assets/img/apple-touch-icon.png"></img></a>
 
-``09MAR2023``
+``09MAR2023 · MAIN · Charlie``
 
 → Shooting in Hamburg's &raquo;Nord Alsterdorf/Groß Borstel&laquo; district in a JW-Kingdom Hall   
 → 6 dead, 4 men, 2 women, 1 unborn child  
@@ -40,7 +40,7 @@
 
 <a href="https://www.rnz.co.nz/news/world/485747/prince-edward-named-new-duke-of-edinburgh"><img alt="RNZ-LOGO" height=32 src="https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png"></img></a>
 
-``11MAR2023``
+``11MAR2023 · SIDE · Charlie``
 
 - Buckingham Palace announced: Prince Edward (King Charles III.'s younger brother) was named Duke of Edinburgh by King Charles III. on Prince Edwards 59<sup>th</sup> Birthday.
 - Duke Edward and Duchess Sophie visited Edinburgh on Friday (10MAR23) 
@@ -48,11 +48,33 @@
 - Edward, 13<sup>th</sup> in line to the Throne, will attend the coronation in May as the Duke of Edinburgh
 - His former title was passed down to his son, the 15-year-old Viscount Severn, although his daughter, Lady Louise Windsor, will not have any change in her titles.
 
+### Texas man sues three women for helping his ex-wife obtain abortion pills
+
+<a href="https://www.rnz.co.nz/news/world/485864/texas-man-sues-three-women-for-helping-his-ex-wife-obtain-abortion-pills"><img alt="RNZ-LOGO" height=32 src="https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png"></img></a>
+
+``11MAR2023 · SIDE · Charlie``
+
+A Texas man sued three women alleging that they are liable for wrongful death, because they helped his ex-wife
+obtain abortion pills in July 2022. He is seeking damages of 1 million dollars against each woman. 
+
+The state of Texas along with about a dozen other states has enacted a state-wide ban on abortion;
+according to Texas law it is illegal to '*aid, provide or abet* ' an abortion after 6 weeks. 
+The suit alleges: "&lbrack;the defendants&rbrack; all knew that they were aiding &lbrack;…&rbrack; a self-managed abortion, which is a &lbrack;…&rbrack; criminal act of murder under Texas law"
+
+His ex-wife, who divorced her husband in February 2022 was (according to the lawsuit) not a defendant and thus 
+exempt from criminal or civil liability under state law.
+
+The plaintiff is represented by Briscoe Cain, a Republican member of the Texas House of Representatives
+and Jonathan Mitchell, credited as an architect of the six-week abortion ban in Texas that took effect in September of 2021.
+
+*A hearing in the case has been set for June eighth*.
+<!-- #endregion -->
+
 ### Xi Jinping 'elected' President of China for third term in a row 
 
 <a href="https://www.rnz.co.nz/news/world/485728/china-s-xi-jinping-clinches-third-presidential-term-amid-host-of-challenges"><img alt="RNZ-LOGO" height=32 src="https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png"></img></a>
 
-``10MAR2023``
+``10MAR2023 · SIDE  · &#x7070;``
 
 - &#x4e60;&#x8fd1;&#x5e73; (Xí Jìnpíng, <b style="color: #006663"><span style="font-variant: small-caps">ipa: </span>/ʃǐ d͡ʒînpǐŋ/</b>) secured a third 5-year presidential term on Friday, after nearly 3000 members of Chinas Parliament voted unanimously for the 69-year-old, in an &raquo;*election* &laquo; in which the only candidate was Xi (&#x4e60;). 
 - He assumed Control over a decade ago, facing 
@@ -70,18 +92,30 @@
 
 <a href="https://www.rnz.co.nz/news/world/485700/georgian-ruling-party-drops-foreign-agents-bill-protesters-remain"><img alt="RNZ-LOGO" height=32 src="https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png"></img></a>
 
-### Heavy rain in Australia triggers evacuations in Queensland
+``09MAR2023 · SIDE · 灰``
 
-<a href="https://www.rnz.co.nz/news/world/485768/heavy-rain-in-australia-triggers-flood-evacuations-in-queensland"><img alt="RNZ-LOGO" height=32 src="https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png"></img></a>
+After 2 straight days of protest the country of Georgia has dropped the "foreign agents" bill
+that required organisations receiving more than 20 % of their funding from abroad georgia to 
+register as 'foreign agents' or face fines. The bill was supposed to root out &raquo;foreign influences&laquo;
+and &raquo;spies&laquo; and was described by opponents as a local version of a russian law that
+Putin used to crush dissent for more than a decade.
 
-``11MAR2023``
+Although it was modelled on the 1938 "Foreign Agents Registration Act" of the US, that primarily 
+covers lobbyists and organisations, directly working under the control of foreign governments.
+
+According to the 32-year-old Nika Oboladze *90% of Georgians support European Integration*.
+
+The police employed the use of Tear gas, Stun grenades and Water cannons against the demonstrators.  
+Although according to the interior Ministry *All protestors detained &lbrack;on&rbrack; non-criminal offences were freed.*
 
 ### FOX-News host Tucker Carlson's Jan 6th claims not credible
 
 <a href="https://www.rnz.co.nz/news/world/485618/fox-news-host-tucker-carlson-s-capitol-riots-claims-not-credible-white-house"><img alt="RNZ-LOGO" height=32 src="https://www.rnz.co.nz/x/logos/print-logo-e815817f490d34c4d85038fdc7fafdb48969c05330ce4db18c7e535f64aa9b52.png"></img></a>
 <a href="https://www.washingtonpost.com/opinions/2023/03/10/kevin-mccarthy-i-know-nothing-insurrection-questions/"><img alt=" WP-LOGO" height=32 src="https://www.washingtonpost.com/favicon.svg"></img></a>
 
+``10MAR2023 · MAIN · 灰``
 
+Those hosts continue to deceive and manipulate viewers nightly. The same day Carlson aired his Jan. 6 fabrication, Trump said on Sean Hannity’s radio show that he would have been willing to let Vladimir Putin “take over” parts of Ukraine. But when Hannity played excerpts of the interview on Fox News, the network edited out Trump’s proposed surrender.
 
 
 
