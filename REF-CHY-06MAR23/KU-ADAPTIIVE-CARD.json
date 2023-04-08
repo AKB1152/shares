@@ -1,0 +1,608 @@
+{
+	"type": "AdaptiveCard",
+	"body": [{
+			"type": "TextBlock",
+			"size": "Medium",
+			"weight": "Bolder",
+			"text": "Lerntyp-Test"
+		},
+		{
+			"type": "RichTextBlock",
+			"inlines": [{
+				"type": "TextRun",
+				"text": "Jede Antwort kann einem Lerntypen zugeordnet werden…\n am ende gibt es prozentige Anteile an allen vieren: \n\n· visuell\n· kommunikativ\n · auditiv \n· haptisch/motorisch"
+			}]
+		}
+	],
+	"$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+	"version": "1.4",
+	"actions": [{
+		"type": "Action.ShowCard",
+		"title": "Welcher Lerntyp bin ich?",
+		"card": {
+			"version": "1.4",
+			"type": "AdaptiveCard",
+			"body": [{
+					"type": "TextBlock",
+					"size": "Medium",
+					"weight": "Bolder",
+					"text": "Lerntyp-Test: 1 / 13"
+				},
+				{
+					"type": "TextBlock",
+					"text": "Ihre Kollegin möchte Ihnen den Weg zur Bushaltestelle erklären. Welche Erklärung fällt Ihnen am leichtesten?",
+					"isSubtle": true
+				},
+				{
+					"type": "Input.ChoiceSet",
+					"id": "choice0",
+					"choices": [{
+							"title": "Sie zeichnet mir den Weg auf dem Stadtplan nach und ich nehme den Plan mit.",
+							"value": 1
+						},
+						{
+							"title": "Sie erklärt mir ganz genau, wie ich gehen soll.",
+							"value": 256
+						},
+						{
+							"title": "Sie begleitet mich am besten dorthin.",
+							"value": 65536
+						},
+						{
+							"title": "Sie schreibt mir die Straßennamen sowie Kreuzungen auf und wie ich zu gehen habe.",
+							"value": 16777216
+						}
+					],
+					"placeholder": "Wählen Sie eine Antwort aus"
+				},
+				{
+					"type": "ActionSet",
+					"actions": [{
+						"type": "Action.ShowCard",
+						"title": "OK",
+						"card": {
+							"version": "1.4",
+							"type": "AdaptiveCard",
+							"body": [{
+									"type": "TextBlock",
+									"size": "Medium",
+									"weight": "Bolder",
+									"text": "Lerntyp-Test: 2 / 13"
+								},
+								{
+									"type": "TextBlock",
+									"text": "Sie sind sich nicht sicher, wie ein Wort geschrieben wird. Wie gehen Sie vor?",
+									"isSubtle": true
+								},
+								{
+									"type": "Input.ChoiceSet",
+									"id": "choice1",
+									"choices": [{
+											"title": "Ich denke an Plakate oder Textpassagen, in denen das Wort schon einmal vorkam.",
+											"value": 1
+										},
+										{
+											"title": "Ich spreche es mehrfach laut vor mich hin und finde es so heraus.",
+											"value": 256
+										},
+										{
+											"title": "Ich schreibe es in allen Varianten auf.",
+											"value": 65536
+										},
+										{
+											"title": "Ich schlage im Wörterbuch nach oder google das Wort.",
+											"value": 16777216
+										}
+									],
+									"placeholder": "Wählen Sie eine Antwort aus"
+								},
+								{
+									"type": "ActionSet",
+									"actions": [{
+										"type": "Action.ShowCard",
+										"title": "OK",
+										"card": {
+											"version": "1.4",
+											"type": "AdaptiveCard",
+											"body": [{
+													"type": "TextBlock",
+													"size": "Medium",
+													"weight": "Bolder",
+													"text": "Lerntyp-Test: 3 / 13"
+												},
+												{
+													"type": "TextBlock",
+													"text": "Wenn unter Kollegen oder Freunden ein neues Thema besprochen wird, fällt mir auf:",
+													"isSubtle": true
+												},
+												{
+													"type": "Input.ChoiceSet",
+													"id": "choice2",
+													"choices": [{
+															"title": "Mir kommen sofort Bilder in den Sinn, die ich dazu gesehen habe.",
+															"value": 1
+														},
+														{
+															"title": "Ich höre erst mal gut zu.",
+															"value": 256
+														},
+														{
+															"title": "Ich stelle mehr Fragen als die anderen und denke sofort an die Umsetzung.",
+															"value": 65536
+														},
+														{
+															"title": " Ich lese zu Hause alles durch, was ich dazu finden kann.",
+															"value": 16777216
+														}
+													],
+													"placeholder": "Wählen Sie eine Antwort aus"
+												},
+												{
+													"type": "ActionSet",
+													"actions": [{
+														"type": "Action.ShowCard",
+														"title": "OK",
+														"card": {
+															"version": "1.4",
+															"type": "AdaptiveCard",
+															"body": [{
+																	"type": "TextBlock",
+																	"size": "Medium",
+																	"weight": "Bolder",
+																	"text": "Lerntyp-Test: 4 / 13"
+																},
+																{
+																	"type": "TextBlock",
+																	"text": "Wenn ich es mir aussuchen könnte, würde ich bei einer Frage zu einem Thema…",
+																	"isSubtle": true
+																},
+																{
+																	"type": "Input.ChoiceSet",
+																	"id": "choice3",
+																	"choices": [{
+																			"title": "die Lösung in meinen Aufzeichnungen suchen.",
+																			"value": 1
+																		},
+																		{
+																			"title": "mir die Antwort von einem guten Dozenten erklären lassen",
+																			"value": 256
+																		},
+																		{
+																			"title": "mir das Ganze bildlich vorstellen und so die Antwort finden.",
+																			"value": 65536
+																		},
+																		{
+																			"title": "mir das Ganze bildlich vorstellen und so die Antwort finden.",
+																			"value": 16777216
+																		}
+																	],
+																	"placeholder": "Wählen Sie eine Antwort aus"
+																},
+																{
+																	"type": "ActionSet",
+																	"actions": [{
+																		"type": "Action.ShowCard",
+																		"title": "OK",
+																		"card": {
+																			"version": "1.4",
+																			"type": "AdaptiveCard",
+																			"body": [{
+																					"type": "TextBlock",
+																					"size": "Medium",
+																					"weight": "Bolder",
+																					"text": "Lerntyp-Test: 5 / 13"
+																				},
+																				{
+																					"type": "TextBlock",
+																					"text": "Sie haben eine neue Kaffeemaschine und sollen Ihren Kollegen erklären, wie diese funktioniert. Wie gehen Sie vor?",
+																					"isSubtle": true
+																				},
+																				{
+																					"type": "Input.ChoiceSet",
+																					"id": "choice4",
+																					"choices": [{
+																							"title": "Ich zeichne die Maschine auf und zeige anhand der Skizze die Schritte.",
+																							"value": 1
+																						},
+																						{
+																							"title": "Ich lege die Bedienungsanleitung neben die Maschine und halte mich an das dort beschriebene Vorgehen.",
+																							"value": 256
+																						},
+																						{
+																							"title": "Ich fordere die Kollegen auf, durch Ausprobieren den besten Weg herauszufinden.",
+																							"value": 65536
+																						},
+																						{
+																							"title": "Ich erkläre Schritt für Schritt, wie es funktioniert.",
+																							"value": 16777216
+																						}
+																					],
+																					"placeholder": "Wählen Sie eine Antwort aus"
+																				},
+																				{
+																					"type": "ActionSet",
+																					"actions": [{
+																						"type": "Action.ShowCard",
+																						"title": "OK",
+																						"card": {
+																							"version": "1.4",
+																							"type": "AdaptiveCard",
+																							"body": [{
+																									"type": "TextBlock",
+																									"size": "Medium",
+																									"weight": "Bolder",
+																									"text": "Lerntyp-Test: 6 / 13"
+																								},
+																								{
+																									"type": "TextBlock",
+																									"text": "Wenn ich Vokabeln/neue Begriffe lernen muss, dann … ",
+																									"isSubtle": true
+																								},
+																								{
+																									"type": "Input.ChoiceSet",
+																									"id": "choice5",
+																									"choices": [{
+																											"title": " stelle ich mir den Gegenstand vor oder zeichne mir eine Eselsbrücke.",
+																											"value": 1
+																										},
+																										{
+																											"title": "  lese ich mir die Vokabeln/Begriffe laut vor oder ich lasse mich abfragen.",
+																											"value": 256
+																										},
+																										{
+																											"title": "gehe ich durch das Zimmer und sage die Vokabeln/Begriffe auf.",
+																											"value": 65536
+																										},
+																										{
+																											"title": " schreibe ich sie der Reihe nach auf.",
+																											"value": 16777216
+																										}
+																									],
+																									"placeholder": "Wählen Sie eine Antwort aus"
+																								},
+																								{
+																									"type": "ActionSet",
+																									"actions": [{
+																										"type": "Action.ShowCard",
+																										"title": "OK",
+																										"card": {
+																											"version": "1.4",
+																											"type": "AdaptiveCard",
+																											"body": [{
+																													"type": "TextBlock",
+																													"size": "Medium",
+																													"weight": "Bolder",
+																													"text": "Lerntyp-Test: 7 / 13"
+																												},
+																												{
+																													"type": "TextBlock",
+																													"text": "Bei Erklärungen zu einem neuen Thema… ",
+																													"isSubtle": true
+																												},
+																												{
+																													"type": "Input.ChoiceSet",
+																													"id": "choice6",
+																													"choices": [{
+																															"title": "schätze ich Übersichtsbilder und Grafiken dazu.",
+																															"value": 1
+																														},
+																														{
+																															"title": "höre ich gern Vorträge zu dem Thema, etwa auf YouTube.",
+																															"value": 256
+																														},
+																														{
+																															"title": "lese ich mir alles erst einmal in Ruhe durch.",
+																															"value": 65536
+																														},
+																														{
+																															"title": " mag ich es, wenn mir das jemand langsam und gründlich erklärt und ich Fragen stellen kann.",
+																															"value": 16777216
+																														}
+																													],
+																													"placeholder": "Wählen Sie eine Antwort aus"
+																												},
+																												{
+																													"type": "ActionSet",
+																													"actions": [{
+																														"type": "Action.ShowCard",
+																														"title": "OK",
+																														"card": {
+																															"version": "1.4",
+																															"type": "AdaptiveCard",
+																															"body": [{
+																																	"type": "TextBlock",
+																																	"size": "Medium",
+																																	"weight": "Bolder",
+																																	"text": "Lerntyp-Test: 8 / 13"
+																																},
+																																{
+																																	"type": "TextBlock",
+																																	"text": "Sie haben Gäste eingeladen und möchten etwas Leckeres zum Essen vorbereiten. Wie gehen Sie vor?",
+																																	"isSubtle": true
+																																},
+																																{
+																																	"type": "Input.ChoiceSet",
+																																	"id": "choice7",
+																																	"choices": [{
+																																			"title": "Ich schaue mir verschiedene Rezepte an und lasse mich von den Bildern inspirieren.",
+																																			"value": 1
+																																		},
+																																		{
+																																			"title": " Ich lasse mir von der/dem besten Koch/Köchin der Gruppe am Telefon erklären, wie sie/er das leckere Gericht zubereitet hat, was beim letzten Essen allen so gut geschmeckt hat.",
+																																			"value": 256
+																																		},
+																																		{
+																																			"title": "Ich lege einfach los und schaue, was daraus wird.",
+																																			"value": 65536
+																																		},
+																																		{
+																																			"title": " Ich nehme mein Lieblingsrezept und folge den Anweisungen Schritt für Schritt – mit meinen Anmerkungen dazu.",
+																																			"value": 16777216
+																																		}
+																																	],
+																																	"placeholder": "Wählen Sie eine Antwort aus"
+																																},
+																																{
+																																	"type": "ActionSet",
+																																	"actions": [{
+																																		"type": "Action.ShowCard",
+																																		"title": "OK",
+																																		"card": {
+																																			"version": "1.4",
+																																			"type": "AdaptiveCard",
+																																			"body": [{
+																																					"type": "TextBlock",
+																																					"size": "Medium",
+																																					"weight": "Bolder",
+																																					"text": "Lerntyp-Test: 9 / 13"
+																																				},
+																																				{
+																																					"type": "TextBlock",
+																																					"text": "Wenn ich mir eine Telefonnummer merken muss, dann…",
+																																					"isSubtle": true
+																																				},
+																																				{
+																																					"type": "Input.ChoiceSet",
+																																					"id": "choice8",
+																																					"choices": [{
+																																							"title": "schreibe ich mir die Nummer auf, meist ist sie dann in meinem Kopf.",
+																																							"value": 1
+																																						},
+																																						{
+																																							"title": "merke ich sie mir mit einer Melodie oder einem Rhythmus.",
+																																							"value": 256
+																																						},
+																																						{
+																																							"title": "merke ich sie mir, indem ich die Finger imaginär über die Tastatur bewege.",
+																																							"value": 65536
+																																						},
+																																						{
+																																							"title": " merke ich mir eine Eselsbrücke.",
+																																							"value": 16777216
+																																						}
+																																					],
+																																					"placeholder": "Wählen Sie eine Antwort aus"
+																																				},
+																																				{
+																																					"type": "ActionSet",
+																																					"actions": [{
+																																						"type": "Action.ShowCard",
+																																						"title": "OK",
+																																						"card": {
+																																							"version": "1.4",
+																																							"type": "AdaptiveCard",
+																																							"body": [{
+																																									"type": "TextBlock",
+																																									"size": "Medium",
+																																									"weight": "Bolder",
+																																									"text": "Lerntyp-Test: 10 / 13"
+																																								},
+																																								{
+																																									"type": "TextBlock",
+																																									"text": "Wenn ich mich konzentrieren muss, dann brauche ich Ruhe und lasse mich von Geräuschen und Gesprächen leicht ablenken",
+																																									"isSubtle": true
+																																								},
+																																								{
+																																									"type": "Input.ChoiceSet",
+																																									"id": "choice9",
+																																									"choices": [{
+																																											"title": " Stimmt genau",
+																																											"value": 256
+																																										},
+																																										{
+																																											"title": "Manchmal",
+																																											"value": 256
+																																										},
+																																										{
+																																											"title": "Nein, ich kann im vollsten Zug lernen ",
+																																											"value": "0"
+																																										}
+																																									],
+																																									"placeholder": "Wählen Sie eine Antwort aus"
+																																								},
+																																								{
+																																									"type": "ActionSet",
+																																									"actions": [{
+																																										"type": "Action.ShowCard",
+																																										"title": "OK",
+																																										"card": {
+																																											"version": "1.4",
+																																											"type": "AdaptiveCard",
+																																											"body": [{
+																																													"type": "TextBlock",
+																																													"size": "Medium",
+																																													"weight": "Bolder",
+																																													"text": "Lerntyp-Test: 11 / 13"
+																																												},
+																																												{
+																																													"type": "TextBlock",
+																																													"text": "Wenn mir jemand etwas Spannendes erzählt, sehe ich förmlich die Bilder vor meinen Augen – als wäre ich selbst dabei.",
+																																													"isSubtle": true
+																																												},
+																																												{
+																																													"type": "Input.ChoiceSet",
+																																													"id": "choice10",
+																																													"choices": [{
+																																															"title": "Ja, das passiert mir oft",
+																																															"value": 1
+																																														},
+																																														{
+																																															"title": " Manchmal",
+																																															"value": 1
+																																														},
+																																														{
+																																															"title": " Nein, ich konzentriere mich auf die Schilderungen",
+																																															"value": "0"
+																																														}
+																																													],
+																																													"placeholder": "Wählen Sie eine Antwort aus"
+																																												},
+																																												{
+																																													"type": "ActionSet",
+																																													"actions": [{
+																																														"type": "Action.ShowCard",
+																																														"title": "OK",
+																																														"card": {
+																																															"version": "1.4",
+																																															"type": "AdaptiveCard",
+																																															"body": [{
+																																																	"type": "TextBlock",
+																																																	"size": "Medium",
+																																																	"weight": "Bolder",
+																																																	"text": "Lerntyp-Test: 12 / 13"
+																																																},
+																																																{
+																																																	"type": "TextBlock",
+																																																	"text": "Ich behalte Sachen am besten, die ich selber aufgeschrieben habe",
+																																																	"isSubtle": true
+																																																},
+																																																{
+																																																	"type": "Input.ChoiceSet",
+																																																	"id": "choice11",
+																																																	"choices": [{
+																																																			"title": "Ja, stimme ich voll zu",
+																																																			"value": 16777216
+																																																		},
+																																																		{
+																																																			"title": "Manchmal",
+																																																			"value": 16777216
+																																																		},
+																																																		{
+																																																			"title": "ein, das stimmt nicht ",
+																																																			"value": "0"
+																																																		}
+																																																	],
+																																																	"placeholder": "Wählen Sie eine Antwort aus"
+																																																},
+																																																{
+																																																	"type": "ActionSet",
+																																																	"actions": [{
+																																																		"type": "Action.ShowCard",
+																																																		"title": "OK",
+																																																		"card": {
+																																																			"version": "1.4",
+																																																			"type": "AdaptiveCard",
+																																																			"body": [{
+																																																					"type": "TextBlock",
+																																																					"size": "Medium",
+																																																					"weight": "Bolder",
+																																																					"text": "Lerntyp-Test: 13 / 13"
+																																																				},
+																																																				{
+																																																					"type": "TextBlock",
+																																																					"text": "Ich kann mir Sachen gut merken, wenn ich sie gemeinsam mit anderen ausprobiere. ",
+																																																					"isSubtle": true
+																																																				},
+																																																				{
+																																																					"type": "Input.ChoiceSet",
+																																																					"id": "choice12",
+																																																					"choices": [{
+																																																							"title": "Ja, das stimmt",
+																																																							"value": 65536
+																																																						},
+																																																						{
+																																																							"title": "Manchmal",
+																																																							"value": 65536
+																																																						},
+																																																						{
+																																																							"title": "Nein, das stimmt nicht ",
+																																																							"value": "0"
+																																																						}
+																																																					],
+																																																					"placeholder": "Wählen Sie eine Antwort aus"
+																																																				},
+																																																				{
+																																																					"type": "ActionSet",
+																																																					"actions": [{
+																																																						"type": "Action.ShowCard",
+																																																						"title": "OK",
+																																																						"card": {
+																																																							"version": "1.4",
+																																																							"type": "AdaptiveCard",
+																																																							"body": [{
+																																																									"type": "TextBlock",
+																																																									"size": "Medium",
+																																																									"weight": "Bolder",
+																																																									"text": "Lerntyp-Test: Ergebnis"
+																																																								},
+																																																								{
+																																																									"type": "TextBlock",
+																																																									"text": "visueller Lerntyp: ${(100*(Number.parseInt(String.format(\"%8x\", (choice0+choice1+choice2+choice3+choice4+choice5+choice6+choice7+choice8+choice9+choice10+choice11+choice12)).substring(6), 16)))/13}%\nkommunikativer Lerntyp: ${(100*(Number.parseInt(String.format(\"%8x\", (choice0+choice1+choice2+choice3+choice4+choice5+choice6+choice7+choice8+choice9+choice10+choice11+choice12)).substring(4, 6), 16)))/13}%\nauditiver Lerntyp: ${(100*(Number.parseInt(String.format(\"%8x\", (choice0+choice1+choice2+choice3+choice4+choice5+choice6+choice7+choice8+choice9+choice10+choice11+choice12)).substring(2, 4), 16)))/13}%\nhaptisch-motorischer Lerntyp:${(100*(Number.parseInt(String.format(\"%8x\", (choice0+choice1+choice2+choice3+choice4+choice5+choice6+choice7+choice8+choice9+choice10+choice11+choice12)).substring(0, 2), 16)))/13}%",
+																																																									"isSubtle": true
+																																																								}
+																																																							]
+																																																						}
+																																																					}]
+																																																				}
+																																																			]
+																																																		}
+																																																	}]
+																																																}
+																																															]
+																																														}
+																																													}]
+																																												}
+																																											]
+																																										}
+																																									}]
+																																								}
+																																							]
+																																						}
+																																					}]
+																																				}
+																																			]
+																																		}
+																																	}]
+																																}
+																															]
+																														}
+																													}]
+																												}
+																											]
+																										}
+																									}]
+																								}
+																							]
+																						}
+																					}]
+																				}
+																			]
+																		}
+																	}]
+																}
+															]
+														}
+													}]
+												}
+											]
+										}
+									}]
+								}
+							]
+						}
+					}]
+				}
+			]
+		}
+	}]
+}

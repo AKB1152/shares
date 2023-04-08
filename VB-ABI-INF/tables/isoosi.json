@@ -1,0 +1,14 @@
+{
+  "align": "left",
+  "head": [" ", "Layer<sup>en</sup>", "Layer<sup>de</sup>", "Protocol Data Unit (PDU)", "Protocols", "Explanation"],
+  "wrap": [["<kbd class=\"td1\">","</kbd>"], ["<span class=\"td1\">", "</span>"], ["<span class=\"td1\">","</span>"], ["<span class=\"td1\">","</span>"], ["<code class=\"td1\">", "</code>"], ["<details><summary><b>Explanation</b></summary><p>","</p></details>"]],
+  "body": [
+    [7, "Application", "Anwendung", "data", "HTTP, SMTP, POP3, FTP, SSH", "High-level protocols such as for resource sharing or remote file access"],
+    [6, "Presentation", "Darstellung", "", "UTF-8,-32,-16, ASCII, LZSS, PGP, AES, 3*DES", "handles character encoding/decoding, data (de-)compression and en-/decryption"],
+    [5, "Session", "Sitzung", "", "", ""],
+    [4, "Transport", "Transport", "Segment/Datagram", "TCP, UDP", "Reliable Data Transmission"],
+    [3, "Network", "Vermittlung", "Packet", "IP", "Routing, Traffic Control, addressing"],
+    [2, "Data Link", "Sicherung", "Frame", "Ethernet", "Transmission of Data Frames"],
+    [1, "Physical", "Bitübertragung", "Bit/Symbol", "<Cable>", "Transmission of raw Bitstreams"]
+  ]
+}

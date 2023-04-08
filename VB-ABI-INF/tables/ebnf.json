@@ -1,0 +1,16 @@
+{
+  "align": "right",
+  "head": ["Usage", "Notation", "Regex"],
+  "fstring": [["<kbd class=\"td1\">","</kbd>"], ["<code class=\"ebnf td1\">","</code> "], ["<code class=\"js\">","</code>"]],
+  "body": [
+    [ "definition", "=", "/a\\s+=\\s+b/" ],
+    ["concatenation", ",", "/ab/"],
+    ["termination", ";", "/;\\s+$/"],
+    ["alternation", "|", "/[ab]/"],
+    ["optional", "&lbrack;a&rbrack;", "/a{0,1}/"],
+    ["repetition", "{a}", "/a*/"],
+    ["grouping", "(a)", "/[a]/"],
+    ["terminal string", "\"a\" or 'a'", "/a/"],
+    ["comment", "(*…*)", "/\/*…*\//"]
+  ]
+}
