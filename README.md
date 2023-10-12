@@ -1,6 +1,6 @@
 # shares
 
-→ This Repositorz is used for sharing documents etc.
+→ This Repository is used for sharing documents etc.
 
 format: 
 
