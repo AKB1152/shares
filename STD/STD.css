@@ -1,0 +1,14 @@
+html {
+  background-color: #131320;
+  color: #ffffff;
+}
+
+@media print {
+  .pgbreak, 
+  .page,
+  .pbreak, 
+  .newpage {
+    page-break-after: always;
+  }
+}
+
