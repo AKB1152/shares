@@ -1,5 +1,7 @@
 # Grammar summary: Keigo
 
+> also available as [PDF](./Keigo.pdf)
+
 > In Japanese there are three types of <abbr title="respectful language">Keigo (敬語)</abbr>:
 >
 
